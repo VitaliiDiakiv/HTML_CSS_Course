@@ -1,2 +1,3 @@
-[# HTML_CSS_Course]
-(https://omnifood-course-vitalii.netlify.app)
+HTML_CSS_Self-study_Course
+
+Link to final work --> https://omnifood-course-vitalii.netlify.app
